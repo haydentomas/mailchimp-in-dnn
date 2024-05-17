@@ -25,4 +25,4 @@
     </div>
 </div>
 
-## The important part of the above form is to remember to include teh extra div so it can be replaced with a new form by teh JS included in the skin file
+## The important part of the above form is to remember to include teh extra div so it can be replaced with a new form by the JS included in the skin file
