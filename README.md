@@ -1,3 +1,3 @@
 # mailchimp-in-dnn
 
-Please check teh PDF for the read me!
+Please check the PDF for the read me! This will be updated in Markdown at a later date
