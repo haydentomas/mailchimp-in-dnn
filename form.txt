@@ -1,0 +1,28 @@
+<div id="mc_embed_signup">
+    <div class="iamform">
+        <form
+            action="https://www.yourmailchimpformurlgoeshere.com"
+            method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate"
+            target="_blank">
+            <div id="mc_embed_signup_scroll">
+                <h2>Subscribe</h2>
+                <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+                <div class="mc-field-group"><label for="mce-FNAME">First Name </label><input type="text" name="FNAME"
+                        class=" text" id="mce-FNAME" value=""></div>
+                <div class="mc-field-group"><label for="mce-EMAIL">Email Address <span
+                            class="asterisk">*</span></label><input type="email" name="EMAIL" class="required email"
+                        id="mce-EMAIL" value="" required=""></div>
+                <div id="mce-responses" class="clear">
+                    <div class="response" id="mce-error-response" style="display: none;"></div>
+                    <div class="response" id="mce-success-response" style="display: none;"></div>
+                </div>
+                <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text"
+                        name="b_bdb648829adf3af97bbd37b0f_6cabd3ccaf" tabindex="-1" value=""></div>
+                <div class="clear"><input type="submit" name="subscribe" id="mc-embedded-subscribe"
+                        class="button redbutton" value="Subscribe"></div>
+            </div>
+        </form>
+    </div>
+</div>
+
+## The important part of the above form is to remember to include teh extra div so it can be replaced with a new form by teh JS included in the skin file
